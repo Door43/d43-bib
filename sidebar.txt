@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[bib:home|Door43 (bib)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-bib|d43-bib repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-bib/archive/master.zip|d43-bib.zip]]
+
+**Recent Changes**
+{{changes>ns = bib}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/bib|Ethnologue data]]
+
